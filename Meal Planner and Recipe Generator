@@ -1,0 +1,58 @@
+**Prompt-based Application: Meal Planner and Recipe Generator**
+
+**Prompt:**
+```
+Welcome to MealPlanner Pro! Your personalized meal planning and recipe generation assistant.
+
+To get started, please answer the following prompts:
+
+1. How many meals would you like to plan for? (e.g., breakfast, lunch, dinner)
+2. Do you have any dietary preferences or restrictions? (e.g., vegetarian, vegan, gluten-free)
+3. Are there any specific ingredients you want to include or exclude?
+4. How much time do you have for meal preparation on average? (e.g., less than 30 minutes, 30-60 minutes, more than 60 minutes)
+5. Would you like to generate a balanced meal plan or focus on a specific type of cuisine?
+
+Once you've answered these prompts, MealPlanner Pro will generate a customized meal plan for you along with corresponding recipes. Let's get started!
+```
+
+**Sample Usage:**
+```
+Welcome to MealPlanner Pro! Your personalized meal planning and recipe generation assistant.
+
+To get started, please answer the following prompts:
+
+1. How many meals would you like to plan for? (e.g., breakfast, lunch, dinner)
+>> 3
+
+2. Do you have any dietary preferences or restrictions? (e.g., vegetarian, vegan, gluten-free)
+>> Vegetarian
+
+3. Are there any specific ingredients you want to include or exclude?
+>> Include: Quinoa, Exclude: Mushrooms
+
+4. How much time do you have for meal preparation on average? (e.g., less than 30 minutes, 30-60 minutes, more than 60 minutes)
+>> 30-60 minutes
+
+5. Would you like to generate a balanced meal plan or focus on a specific type of cuisine?
+>> Balanced
+
+Generating your customized meal plan...
+
+**Meal Plan**
+
+**Breakfast:**
+- Quinoa Breakfast Bowl with Fresh Fruit and Nuts
+- Greek Yogurt with Honey and Granola
+
+**Lunch:**
+- Quinoa Salad with Roasted Vegetables and Balsamic Vinaigrette
+- Avocado Toast with Poached Egg
+
+**Dinner:**
+- Stuffed Bell Peppers with Quinoa and Black Beans
+- Vegetable Stir-fry with Tofu
+
+Enjoy your delicious and nutritious meals!
+```
+
+MealPlanner Pro generates a personalized meal plan based on the user's preferences, dietary restrictions, ingredient choices, and time constraints, making meal planning efficient and convenient.
